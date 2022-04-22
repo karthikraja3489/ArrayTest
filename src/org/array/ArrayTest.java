@@ -13,6 +13,7 @@ public class ArrayTest {
 	}
 	System.out.println("The average of numbers are "+avg);
 	System.out.println("complete");
+	System.out.println("Completed");
 	}
 
 }
