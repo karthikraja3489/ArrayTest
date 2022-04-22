@@ -12,6 +12,7 @@ public class ArrayTest {
 		avg=sum/a.length;
 	}
 	System.out.println("The average of numbers are "+avg);
+	System.out.println("complete");
 	System.out.println("Completed");
 	}
 
